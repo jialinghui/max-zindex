@@ -1,0 +1,17 @@
+{
+  "name": "max-zindex",
+  "version": "0.1.0",
+  "description": "获取页面元素中最大的z-index",
+  "main": "max-zindex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "max",
+    "z-index",
+    "css",
+    "style.zIndex"
+  ],
+  "author": "jialinghui",
+  "license": "ISC"
+}
